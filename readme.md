@@ -1,4 +1,4 @@
-#nimblebrain
+# nimbrain
 
 This is an implementation of a brainfuck language interpreter and comppiler written in Nim.
 
