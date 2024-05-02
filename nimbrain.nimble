@@ -11,3 +11,4 @@ bin           = @["nimbrain"]
 # Dependencies
 
 requires "nim >= 2.0.4"
+requires "cligen >= 1.7.1"
